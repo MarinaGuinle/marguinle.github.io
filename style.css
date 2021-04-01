@@ -1,0 +1,38 @@
+h1,
+p {
+  background-color: #dde0e3;
+  display: inline;
+}
+em,
+strong {
+  background-color: #b2d6ff;
+  display: block;
+}
+h1 {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-left: 80px;
+  padding-left: 90px;
+box-sizing: 
+  padding: 30px 40 px;
+}
+p {
+  border: 4px solid black;
+  margin: 30 px 40 px;
+}
+
+.div-1{
+width:300px;
+height:100px;
+box-sizing: border-box;
+border: 1px solid black;
+}
+
+.div-2{
+    width:300px;
+    height:100px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    margin: auto; /*css agrega margen necesario para comletar el espacio vacio*/
+    }
+nav {}
